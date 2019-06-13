@@ -7,21 +7,23 @@ public class binary {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int num;
-	    System.out.println("Enter an Integer number:");
+		System.out.println("Enter an Integer number:");
 
-	    //The input provided by user is stored in num
-	    Scanner input = new Scanner(System.in);
-	    num = input.nextInt();
+		//The input provided by user is stored in num
+		Scanner input = new Scanner(System.in);
+		num = input.nextInt();
 
-	    /* If number is divisible by 2 then it's an even number
-	     * else odd number*/
-	    if ( num % 2 == 0 )
-	        System.out.println("Entered number is even");
-	     else
-	        System.out.println("Entered number is odd");
-	    System.out.println("Entered number is odd");
-	  }
-	
-	
+		/* If number is divisible by 2 then it's an even number
+		 * else odd number*/
+		if ( num % 2 == 0 )
+			System.out.println("Entered number is even");
+		else
+			System.out.println("Entered number is odd");
+		System.out.println("Entered number is odd");
+		System.out.println("this is kamala");
+
+	}
+
+
 
 }
