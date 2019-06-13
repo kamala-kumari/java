@@ -19,6 +19,7 @@ public class binary {
 	        System.out.println("Entered number is even");
 	     else
 	        System.out.println("Entered number is odd");
+	    System.out.println("Entered number is odd");
 	  }
 	
 	
