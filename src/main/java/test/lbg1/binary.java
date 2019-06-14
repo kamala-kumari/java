@@ -22,6 +22,8 @@ public class binary {
 		System.out.println("Entered number is odd");
 		System.out.println("this is kamala");
 		System.out.println("this is kumari");
+		System.out.println("message");
+		
 
 	}
 
